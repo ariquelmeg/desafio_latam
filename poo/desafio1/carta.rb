@@ -7,6 +7,7 @@ class Carta
     end
 end
 
+numeros = [1..13]
 pintas = ['C','D','E','T']
 mano = []
 
